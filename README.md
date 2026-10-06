@@ -1,5 +1,5 @@
 <a href="https://YOUR-PORTFOLIO-LINK-HERE">
-  <img src="./assets/hero.svg" alt="Maheshvaree Sonagara - Data Analyst" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,60:0B1F66,100:1747FF&height=300&section=header&text=Maheshvaree%20Sonagara&fontSize=58&fontColor=00E5FF&fontAlignY=40&animation=fadeIn&desc=MSc%20Data%20Science%20%7C%20Aspiring%20Data%20Analyst&descSize=22&descAlignY=62&descColor=9FC4FF" alt="Maheshvaree Sonagara" width="100%">
 </a>
 
 <p align="center">
@@ -29,7 +29,17 @@ mission    : raw data -> clean data -> clear insights
 
 ## `> workflow`
 
-<img src="./assets/pipeline.svg" alt="Data workflow" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/01_COLLECT-000000?style=for-the-badge&labelColor=000000&color=00E5FF" alt="Collect">
+  <img src="https://img.shields.io/badge/%E2%9E%9C-000000?style=for-the-badge&labelColor=000000&color=000000" alt=">">
+  <img src="https://img.shields.io/badge/02_CLEAN-000000?style=for-the-badge&labelColor=000000&color=16B8FF" alt="Clean">
+  <img src="https://img.shields.io/badge/%E2%9E%9C-000000?style=for-the-badge&labelColor=000000&color=000000" alt=">">
+  <img src="https://img.shields.io/badge/03_ANALYZE-000000?style=for-the-badge&labelColor=000000&color=2D8BFF" alt="Analyze">
+  <img src="https://img.shields.io/badge/%E2%9E%9C-000000?style=for-the-badge&labelColor=000000&color=000000" alt=">">
+  <img src="https://img.shields.io/badge/04_VISUALIZE-000000?style=for-the-badge&labelColor=000000&color=2D6BFF" alt="Visualize">
+  <img src="https://img.shields.io/badge/%E2%9E%9C-000000?style=for-the-badge&labelColor=000000&color=000000" alt=">">
+  <img src="https://img.shields.io/badge/05_DECIDE-000000?style=for-the-badge&labelColor=000000&color=5B4BFF" alt="Decide">
+</p>
 
 ## `> tech_stack`
 
