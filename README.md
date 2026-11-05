@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=230&section=header&text=Maheshvaree%20Sonagara&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=MSc%20Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst&descSize=20&descAlignY=58" alt="Maheshvaree Sonagara" width="100%">
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/manusonagara15-ctrl"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Maheshvaree+%F0%9F%91%8B;MSc+Data+Science+Student+%F0%9F%93%9A;Aspiring+Data+Analyst+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%E2%9A%A1" alt="Typing intro"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=230&section=header&text=Maheshvaree%20Sonagara&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=MSc%20Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst&descSize=20&descAlignY=58" alt="Maheshvaree Sonagara" />
 
-<p align="center">
-  <a href="https://YOUR-PORTFOLIO-LINK-HERE"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/maheshvaree-sonagara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/maheshvaree-sonagara/"><img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=manusonagara15-ctrl&label=Profile+views&color=6C63FF&style=for-the-badge" alt="Profile views">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3EC6E0&center=true&vCenter=true&width=650&lines=Hi,+I'm+Maheshvaree;MSc+Data+Science+Student;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI" alt="Typing intro" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshvaree-sonagara)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/maheshvaree-sonagara/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=manusonagara15-ctrl&label=Profile+views&color=6C63FF&style=for-the-badge)
+
+</div>
 
 ---
 
@@ -26,16 +26,14 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔭 Currently Working On
 
@@ -59,10 +57,12 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manusonagara15-ctrl&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=7A7F9A&icon_color=3EC6E0" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusonagara15-ctrl&layout=compact&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=7A7F9A" alt="Top languages">
-</p>
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manusonagara15-ctrl&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=7A7F9A&icon_color=3EC6E0)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manusonagara15-ctrl&layout=compact&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=7A7F9A)
+
+</div>
 
 ## 🏆 Achievements
 
@@ -70,6 +70,6 @@
 
 ## 🤝 Let's Connect
 
-I'm open to **data analyst internships**, analytics collaborations and learning from the community. Say hi on LinkedIn!
+I'm open to **data analyst internships**, analytics collaborations and learning from the community. Say hi on [LinkedIn](https://www.linkedin.com/in/maheshvaree-sonagara)!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" alt="footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" alt="footer" />
