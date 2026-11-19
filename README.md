@@ -1,75 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=230&section=header&text=Maheshvaree%20Sonagara&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=MSc%20Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst&descSize=20&descAlignY=58" alt="Maheshvaree Sonagara" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Maheshvaree%20Sonagara&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=MSc%20Data%20Science%20%7C%20Aspiring%20Data%20Analyst&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="Animated profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3EC6E0&center=true&vCenter=true&width=650&lines=Hi,+I'm+Maheshvaree;MSc+Data+Science+Student;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI" alt="Typing intro" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Maheshvaree+%F0%9F%91%8B;MSc+Data+Science+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+into+Meaningful+Insights;SQL+%7C+Python+%7C+Power+BI" alt="Typing animation"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK-HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshvaree-sonagara)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/maheshvaree-sonagara/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=manusonagara15-ctrl&label=Profile+views&color=6C63FF&style=for-the-badge)
+<br/>
+
+<a href="https://www.linkedin.com/in/maheshvaree-sonagara"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/maheshvaree-sonagara/"><img src="https://img.shields.io/badge/LeetCode-Practice-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<img src="https://komarev.com/ghpvc/?username=manusonagara15-ctrl&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
 - 🎓 MSc Data Science student at **Marwadi University**
-- 📊 I turn raw, messy data into clean analysis and dashboards people can act on
-- 🧰 Working with **SQL, Python and Power BI**
-- 🌱 Building my data analyst portfolio with real, end-to-end projects
-- 🎯 Looking for **data analyst internship** opportunities
+- 📊 Interested in discovering useful insights from data and supporting better decisions
+- 🧰 Learning and building with **SQL, Python, Power BI, Excel and Pandas**
+- 🌱 Improving my skills through hands-on projects and consistent practice
+- 🎯 Aspiring to start my career as a **Data Analyst**
 
-> *"Raw data → clean data → clear insights → better decisions."*
+> *Turning raw data into clear insights, one project at a time.*
 
-## 🛠️ Tech Stack
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🔭 Currently Working On
-
-| | |
-|---|---|
-| 🌐 | Building my data analyst **portfolio website** |
-| 💧 | **Grey water management** dataset: cleaning and missing-value imputation (mean, median, interpolation, model-based) |
-| 🧩 | Practising SQL and problem solving on LeetCode |
-
-## 📁 Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 💊 [Pharmacy Management System](https://github.com/manusonagara15-ctrl/Pharmacy-Management-System) | Manage medicines, stock and sales | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) |
-| 📚 [Library Management System](https://github.com/manusonagara15-ctrl/Library-Management--System) | Book issue / return and records | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square) |
-| ✈️ [Travel Management System](https://github.com/manusonagara15-ctrl/travel_management_system) | My first gig repository | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square) |
-| 🎮 [Hangman & Number Guessing](https://github.com/manusonagara15-ctrl/HangmanNumberGussing_Game) | Two console games | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) |
-| ✊ [Rock Paper Scissors](https://github.com/manusonagara15-ctrl/RockPaperScissiorsGame) | Browser game | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black) |
-
-> 📌 **Coming soon:** SQL + Power BI + Python data analysis projects with dashboards.
-
-## 📈 GitHub Stats
+## 🧰 Tech Stack
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manusonagara15-ctrl&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=7A7F9A&icon_color=3EC6E0)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manusonagara15-ctrl&layout=compact&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=7A7F9A)
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Technology icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
 </div>
 
-## 🏆 Achievements
+## 🚀 What I'm Working On
 
-- 🚀 National Space Day Quiz 2026, MyGov / ISRO (participation certificate)
+| Focus | Goal |
+|---|---|
+| 📊 Data Analytics | Building practical analysis and dashboard projects |
+| 🧹 Data Cleaning | Exploring missing-value handling and data preparation |
+| 🗃️ SQL | Practising queries, joins, grouping and subqueries |
+| 📈 Power BI | Creating interactive reports and dashboards |
+
+## 📂 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 💊 [Pharmacy Management System](https://github.com/manusonagara15-ctrl/Pharmacy-Management-System) | Manage medicines, stock and sales | Python |
+| 📚 [Library Management System](https://github.com/manusonagara15-ctrl/Library-Management--System) | Book issue, return and record management | C++ |
+| ✈️ [Travel Management System](https://github.com/manusonagara15-ctrl/travel_management_system) | Travel management project | HTML, CSS |
+| 🎮 [Hangman & Number Guessing](https://github.com/manusonagara15-ctrl/HangmanNumberGussing_Game) | Two interactive console games | Java |
+| ✊ [Rock Paper Scissors](https://github.com/manusonagara15-ctrl/RockPaperScissiorsGame) | A simple browser game | JavaScript |
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manusonagara15-ctrl&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=2DD4BF" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusonagara15-ctrl&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages"/>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=manusonagara15-ctrl&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=manusonagara15-ctrl&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=2DD4BF&area=true&hide_border=true" alt="Animated contribution activity graph"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manusonagara15-ctrl/manusonagara15-ctrl/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+
+</div>
+
+## 🏆 Achievement
+
+- 🚀 National Space Day Quiz 2026 – MyGov / ISRO (participation certificate)
 
 ## 🤝 Let's Connect
 
-I'm open to **data analyst internships**, analytics collaborations and learning from the community. Say hi on [LinkedIn](https://www.linkedin.com/in/maheshvaree-sonagara)!
+I'm open to learning opportunities, data analytics collaborations and **Data Analyst internship** opportunities.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" alt="footer" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maheshvaree-sonagara"><img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Animated footer"/>
+
+</div>
